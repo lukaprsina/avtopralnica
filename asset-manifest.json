@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/avtopralnica/static/css/main.b672bc85.chunk.css",
+    "main.js": "/avtopralnica/static/js/main.26fc043d.chunk.js",
+    "main.js.map": "/avtopralnica/static/js/main.26fc043d.chunk.js.map",
+    "runtime-main.js": "/avtopralnica/static/js/runtime-main.8b19a30b.js",
+    "runtime-main.js.map": "/avtopralnica/static/js/runtime-main.8b19a30b.js.map",
+    "static/js/2.3f280edb.chunk.js": "/avtopralnica/static/js/2.3f280edb.chunk.js",
+    "static/js/2.3f280edb.chunk.js.map": "/avtopralnica/static/js/2.3f280edb.chunk.js.map",
+    "index.html": "/avtopralnica/index.html",
+    "static/css/main.b672bc85.chunk.css.map": "/avtopralnica/static/css/main.b672bc85.chunk.css.map",
+    "static/js/2.3f280edb.chunk.js.LICENSE.txt": "/avtopralnica/static/js/2.3f280edb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b19a30b.js",
+    "static/js/2.3f280edb.chunk.js",
+    "static/css/main.b672bc85.chunk.css",
+    "static/js/main.26fc043d.chunk.js"
+  ]
+}
